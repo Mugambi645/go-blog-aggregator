@@ -1,11 +1,11 @@
-// main.go
+
 package main
 
 import (
 	"fmt"
 	"log"
 
-	" github.com/mugambi645/go-blog-aggregator" 
+	"github.com/mugambi645/go-blog-aggregator/internal/config"
 )
 
 func main() {
